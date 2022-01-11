@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Weather Forecast
+This project is a mobile app developed with React. It is an Weather Forecast website, the user can search his/her city an see the temperature and humidity. This website use an
+[API to provide the data](https://openweathermap.org/api).
+##
+![Screenshot 2022-01-11 173655](https://user-images.githubusercontent.com/46092730/149025364-809b0edd-4768-46cf-8fb3-0b9ae4176e3a.png)
+[Click here](https://openweathermap.org/api) to test this website it is temporarily deployed into the cloud.
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
