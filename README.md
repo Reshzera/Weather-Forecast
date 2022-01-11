@@ -3,7 +3,7 @@ This project is a mobile app developed with React. It is an Weather Forecast web
 [API to provide the data](https://openweathermap.org/api).
 ##
 ![Screenshot 2022-01-11 173655](https://user-images.githubusercontent.com/46092730/149025364-809b0edd-4768-46cf-8fb3-0b9ae4176e3a.png)
-[Click here](https://openweathermap.org/api) to test this website it is temporarily deployed into the cloud.
+[Click here](https://fervent-lamport-a532b6.netlify.app/) to test this website it is temporarily deployed into the cloud.
 
 
 
